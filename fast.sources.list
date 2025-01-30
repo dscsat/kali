@@ -4,3 +4,8 @@ deb http://security.kali.org/kali-security kali/updates main contrib non-free
 ## Kali Source repositories
 deb-src http://repo.kali.org/kali kali main non-free contrib
 deb-src http://security.kali.org/kali-security kali/updates main contrib non-free
+
+ # kali.mirror.garr.it
+ deb http://kali.mirror.garr.it/mirrors/kali/ kali main non-free contrib
+ deb-src http://kali.mirror.garr.it/mirrors/kali/ kali main non-free contrib
+ deb http://kali.mirror.garr.it/mirrors/kali-security/ kali main non-free contrib
