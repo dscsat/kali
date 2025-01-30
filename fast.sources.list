@@ -1,0 +1,6 @@
+## Kali Regular repositories
+deb http://repo.kali.org/kali kali main non-free contrib
+deb http://security.kali.org/kali-security kali/updates main contrib non-free
+## Kali Source repositories
+deb-src http://repo.kali.org/kali kali main non-free contrib
+deb-src http://security.kali.org/kali-security kali/updates main contrib non-free
