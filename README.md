@@ -29,7 +29,7 @@ To install the tools and scripts provided in this repository, follow these steps
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/kali-linux-developments.git
+    git clone https://github.com/dscsat/kali/kali-linux-developments.git
     ```
 
 2. Navigate to the repository directory:
@@ -49,5 +49,5 @@ Detailed usage instructions for each tool and script can be found in their respe
 
 Example:
 ```sh
-cd custom-scripts
-./example-script.sh
+cd kali-linux-developments
+./kali-linux-developments.sh
